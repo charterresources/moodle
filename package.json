@@ -2,6 +2,8 @@
   "name": "Moodle",
   "private": true,
   "description": "Moodle",
+  "scripts": {
+    "start": "/install.php"
   "devDependencies": {
     "async": "1.5.2",
     "eslint": "3.7.1",
